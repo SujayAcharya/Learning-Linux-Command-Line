@@ -11,5 +11,3 @@
 
 4. Which option would i use with the ls command to output a comma-separated list of files and directories?
 ==> we can use man ls, we can find the -m option to show the output in a comma-separated list.
-
-5. 
